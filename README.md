@@ -3,7 +3,10 @@
 Tech Stack Used :-
 - React Native
 
-
+Steps to run:-
+- `cd project_directory`
+- `npm install`
+- `react-native run-android or react-native run-ios`
 
 
  |     Screenshot 1      |  Screenshot 2|
